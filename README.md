@@ -96,9 +96,3 @@
   После этого отобразить платежи на этой вкладке.</li>
 </ol>
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-</style>
